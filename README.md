@@ -8,8 +8,7 @@ The goal is to identify high-risk food items based on calories, fat content, and
 
 ## 🔧 Tools & Technologies
 - Power BI – Dashboard & Data Visualization  
-- MySQL – Data Cleaning, Transformation & KPI Calculations  
-- Kaggle Dataset – Fast Food Nutrition Dataset
+- MySQL – Data Cleaning, Transformation & KPI Calculations
 
 ---
 
